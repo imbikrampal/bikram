@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BS-MS in Mathematics and Statistics, Indian Institute of Science Education and Research Kolkata, 2028 (expected)
+* +2 Education, Birbhum Zilla School, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2024: Academic Visitor
+  * International Centre for Theoretical Sciences- Tata Instiute of Fundamental Research, Bangalore
+  * Topic : Turbulence and Non linear Partial Differential Equations
+  * Mentor : Dr. Samriddhi Sankar Ray
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Visiting Student
+  * Indian Institute of Technology Kharagpur
+  * Topic : Computational Stochastic Processes
+  * Supervisor: Dr. Buddhananda Banerjee
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Summer Student
+  * Homi Bhabha Center for Science Education- TIFR, Mumbai
+  * Selected through NIUS Fellowship Program 
+  * Advisor : Dr. Arnab Bhattachraya
   
 Skills
 ======
