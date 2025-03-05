@@ -28,8 +28,7 @@ While my academic life keeps me busy, I’m also a full-time self-proclaimed Foo
 Real-Time Simulation
 ======
 You can view my real-time stochastic process simulation below:
-
-<iframe src="../assets/simulation.html" width="700" height="500"></iframe>
+<iframe src="/assets/simulation.html" width="700" height="500"></iframe>
 
 
 Final Thoughts
