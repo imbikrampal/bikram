@@ -29,7 +29,7 @@ Real-Time Simulation
 ======
 You can view my real-time stochastic process simulation below:
 
-<iframe src="simulation.html" width="700" height="500"></iframe>
+<iframe src="assets/simulation.html" width="700" height="500"></iframe>
 
 
 Final Thoughts
