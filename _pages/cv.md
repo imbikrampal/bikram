@@ -56,4 +56,4 @@ redirect_from:
 * **Content Writer**, Identity: Maths Club, IISER Kolkata (2024)
 * **School Captain**, BkTPP Prabir Sengupta Vidyalaya (2018-2020)
 
-[Download Full CV](../assets/bik_CV.pdf)
+[Download Full CV](../assets/Bik_CV.pdf)
